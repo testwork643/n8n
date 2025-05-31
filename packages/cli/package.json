@@ -44,7 +44,9 @@
     "workflow"
   ],
   "engines": {
-    "node": ">=18.17 <= 22"
+  "node": "^18.17.0"
+}
+
   },
   "files": [
     "bin",
